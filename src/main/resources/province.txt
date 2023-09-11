@@ -1,0 +1,77 @@
+ใต้,กระบี่,Krabi,กบ,KBI,1
+กลาง,กรุงเทพมหานคร,Bangkok,กท,BKK,2
+ตะวันตก,กาญจนบุรี,Kanchanaburi,กจ,KRI,3
+ตะวันออกเฉียงเหนือ,กาฬสินธุ์,Kalasin,กส,KSN,4
+กลาง,กำแพงเพชร,Kamphaeng Phet,กพ,KPT,5
+ตะวันออกเฉียงเหนือ,ขอนแก่น,Khon Kaen,ขก,KKN,6
+ตะวันออก,จันทบุรี,Chanthaburi,จบ,CTI,7
+ตะวันออก,ฉะเชิงเทรา,Chachoengsao,ฉช,CCO,8
+ตะวันออก,ชลบุรี,Chon Buri,ชบ,CBI,9
+กลาง,ชัยนาท,Chai Nat,ชน,CNT,10
+ตะวันออกเฉียงเหนือ,ชัยภูมิ,Chaiyaphum,ชย,CPM,11
+ใต้,ชุมพร,Chumphon,ชพ,CPN,12
+เหนือ,เชียงราย,Chiang Rai,ชร,CRI,13
+เหนือ,เชียงใหม่,Chiang Mai,ชม,CMI,14
+ใต้,ตรัง,Trang,ตง,TRG,15
+ตะวันออก,ตราด,Trat,ตร,TRT,16
+ตะวันตก,ตาก,Tak,ตก,TAK,17
+กลาง,นครนายก,Nakhon Nayok,นย,NYK,18
+กลาง,นครปฐม,Nakhon Pathom,นฐ,NPT,19
+ตะวันออกเฉียงเหนือ,นครพนม,Nakhon Phanom,นพ,NPM,20
+ตะวันออกเฉียงเหนือ,นครราชสีมา,Nakhon Ratchasima,นม,NMA,21
+ใต้,นครศรีธรรมราช,Nakhon Si Thammarat,นศ,NRT,22
+กลาง,นครสวรรค์,Nakhon Sawan,นว,NSN,23
+กลาง,นนทบุรี,Nonthaburi,นบ,NBI,24
+ใต้,นราธิวาส,Narathiwat,นธ,NWT,25
+เหนือ,น่าน,Nan,นน,NAN,26
+ตะวันออกเฉียงเหนือ,บึงกาฬ,Bueng Kan,บก,BKN,27
+ตะวันออกเฉียงเหนือ,บุรีรัมย์,Buri Ram,บร,BRM,28
+กลาง,ปทุมธานี,Pathum Thani,ปท,PTE,29
+ตะวันตก,ประจวบคีรีขันธ์,Prachuap Khiri Khan,ปข,PKN,30
+ตะวันออก,ปราจีนบุรี,Prachin Buri,ปจ,PRI,31
+ใต้,ปัตตานี,Pattani,ปน,PTN,32
+กลาง,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,อย,AYA,33
+เหนือ,พะเยา,Phayao,พย,PYO,34
+ใต้,พังงา,Phangnga,พง,PNA,35
+ใต้,พัทลุง,Phatthalung,พท,PLG,36
+กลาง,พิจิตร,Phichit,พจ,PCT,37
+กลาง,พิษณุโลก,Phitsanulok,พล,PLK,38
+ตะวันตก,เพชรบุรี,Phetchaburi,พบ,PBI,39
+กลาง,เพชรบูรณ์,Phetchabun,พช,PNB,40
+เหนือ,แพร่,Phrae,พร,PRE,41
+ใต้,ภูเก็ต,Phuket,ภก,PKT,42
+ตะวันออกเฉียงเหนือ,มหาสารคาม,Maha Sarakham,มค,MKM,43
+ตะวันออกเฉียงเหนือ,มุกดาหาร,Mukdahan,มห,MDH,44
+เหนือ,แม่ฮ่องสอน,Mae Hong Son,มส,MSN,45
+ตะวันออกเฉียงเหนือ,ยโสธร,Yasothon,ยส,YST,46
+ใต้,ยะลา,Yala,ยล,YLA,47
+ตะวันออกเฉียงเหนือ,ร้อยเอ็ด,Roi Et,รอ,RET,48
+ใต้,ระนอง,Ranong,รน,RNG,49
+ตะวันออก,ระยอง,Rayong,รย,RYG,50
+ตะวันตก,ราชบุรี,Ratchaburi,รบ,RBR,51
+กลาง,ลพบุรี,Lop Buri,ลบ,LRI,52
+เหนือ,ลำปาง,Lampang,ลป,LPG,53
+เหนือ,ลำพูน,Lamphun,ลพ,LPN,54
+ตะวันออกเฉียงเหนือ,เลย,Loei,ลย,LEI,55
+ตะวันออกเฉียงเหนือ,ศรีสะเกษ,Si Sa Ket,ศก,SSK,56
+ตะวันออกเฉียงเหนือ,สกลนคร,Sakon Nakhon,สน,SNK,57
+ใต้,สงขลา,Songkhla,สข,SKA,58
+ใต้,สตูล,Satun,สต,STN,59
+กลาง,สมุทรปราการ,Samut Prakan,สป,SPK,60
+กลาง,สมุทรสงคราม,Samut Songkhram,สส,SKM,61
+กลาง,สมุทรสาคร,Samut Sakhon,สค,SKN,62
+ตะวันออก,สระแก้ว,Sa Kaeo,สก,SKW,63
+กลาง,สระบุรี,Saraburi,สบ,SRI,64
+กลาง,สิงห์บุรี,Sing Buri,สห,SBR,65
+กลาง,สุโขทัย,Sukhothai,สท,STI,66
+กลาง,สุพรรณบุรี,Suphan Buri,สพ,SPB,67
+ใต้,สุราษฎร์ธานี,Surat Thani,สฎ,SNI,68
+ตะวันออกเฉียงเหนือ,สุรินทร์,Surin,สร,SRN,69
+ตะวันออกเฉียงเหนือ,หนองคาย,Nong Khai,นค,NKI,70
+ตะวันออกเฉียงเหนือ,หนองบัวลำภู,Nong Bua Lam Phu,นภ,NBP,71
+กลาง,อ่างทอง,Ang Thong,อท,ATG,72
+ตะวันออกเฉียงเหนือ,อำนาจเจริญ,Amnat Charoen,อจ,ACR,73
+ตะวันออกเฉียงเหนือ,อุดรธานี,Udon Thani,อด,UDN,74
+เหนือ,อุตรดิตถ์,Uttaradit,อต,UTD,75
+กลาง,อุทัยธานี,Uthai Thani,อน,UTI,76
+ตะวันออกเฉียงเหนือ,อุบลราชธานี,Ubon Ratchathani,อบ,UBN,77
